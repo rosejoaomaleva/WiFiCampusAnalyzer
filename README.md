@@ -34,7 +34,8 @@ Pesquisa das redes Wi-Fi próximas.
 Lista das redes encontradas com a intensidade do sinal.
 
 ## Membros
-1. Nome do membro 1
-2. Nome do membro 2
-3. Nome do membro 3
-4. Nome do membro 4
+1. Nome do membro 1 Rose Maleva -202401462
+2. Nome do membro 2 Teresa Moiane -202400586
+3. Nome do membro 3 Joaquim Tchuma-202400186
+4. Nome do membro 4 Danilo Matsinhe -202400054
+
