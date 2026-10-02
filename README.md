@@ -32,7 +32,31 @@ Pesquisa das redes Wi-Fi próximas.
 
 ### 3. Resultados
 Lista das redes encontradas com a intensidade do sinal.
+## 📸 Screenshots 
 
+### 1. MainActivity
+![MainActivity]<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/3e524471-1c44-427b-932f-5cb73394f02c" />
+
+
+### 2. Pesquisa Wi-Fi
+![Pesquisa]
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/324c8b94-fcdd-44c8-ade9-ec71f86fcac7" />
+
+
+### 3. ResultsActivity
+![Resultados]<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/1500d19b-d6da-4318-8b18-2d85eb5c6d48" />
+
+### 4. Intent
+![Intent]
+<img width="950" height="161" alt="Image" src="https://github.com/user-attachments/assets/07e41e27-a20b-47f5-b87d-11d511e67b1f" />
+
+### 5. WifiManager
+![WifiManager]
+<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/eb62ea13-85a7-485c-a176-4389aee3d88d" />
+
+
+### 6. BroadcastReceiver
+![BroadcastReceiver]<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/fd02ad5f-0ed9-40dd-b5b6-58ca730bbe17" />
 ## Membros
 1. Nome do membro 1 Rose Maleva -202401462
 2. Nome do membro 2 Teresa Moiane -202400586
